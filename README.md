@@ -45,11 +45,11 @@ I'm **Calvin Rohloff**, a self-taught indie developer making games and software.
     <a href="https://youtube.com/ZickZenniYT">
         <img alt="youtube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-plum?style=for-the-badge&logo=comment-discussion&logoColor=black&color=CE4630"/>
     </a>
-    <a href="https://twitter.com/ZickZenni">
-        <img alt="twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/-Twitter-plum?style=for-the-badge&logo=comment-discussion&logoColor=black&color=6441a5 "/>
-    </a>
     <a href="https://twitch.tv/ZickZenni">
-        <img alt="twitch" title="Twitch" src="https://custom-icon-badges.demolab.com/badge/-Twitch-plum?style=for-the-badge&logo=comment-discussion&logoColor=black&color=1DA1F2"/>
+        <img alt="twitch" title="Twitch" src="https://custom-icon-badges.demolab.com/badge/-Twitch-plum?style=for-the-badge&logo=comment-discussion&logoColor=black&color=6441a5"/>
+    </a>
+    <a href="https://twitter.com/ZickZenni">
+        <img alt="twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/-Twitter-plum?style=for-the-badge&logo=comment-discussion&logoColor=black&color=1DA1F2 "/>
     </a>
     <a href="https://instagram.com/ZickZenni">
         <img alt="instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-plum?style=for-the-badge&logo=comment-discussion&logoColor=black&color=cd486b"/>
