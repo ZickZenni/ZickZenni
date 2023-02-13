@@ -10,6 +10,9 @@ I'm **Calvin Rohloff**, a self-taught indie developer making games and software.
     <a href="https://github.com/ZickZenni/OpenCubes">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=zickzenni&repo=OpenCubes&theme=tokyonight" />
     </a>
+    <a href="https://github.com/ZickZenni/MoreSchematics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zickzenni&repo=MoreSchematics&theme=tokyonight" />
+    </a>
 </div>
 
 #
