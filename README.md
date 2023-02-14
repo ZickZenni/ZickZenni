@@ -35,7 +35,7 @@ I'm **Calvin Rohloff**, a self-taught indie developer making games and software.
 
 ## 🔧 Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=java,cs,ts,js,nodejs,unity,idea,vscode,postman,stackoverflow,git,discord,twitter,instagram" />
+<img src="https://skillicons.dev/icons?i=java,py,cs,ts,js,nodejs,unity,idea,vscode,postman,stackoverflow,git,discord,twitter,instagram" />
 
 #
 
