@@ -1,10 +1,12 @@
 # 🧑‍💻 ZickZenni
 
-I'm **Calvin Rohloff**, a self-taught indie developer making games and software. I've been coding since **2017** and been improving ever since, starting from small **Minecraft server plugins** to making my own **voxel RPG game**: [OpenCubes](https://github.com/ZickZenni/OpenCubes)
+I'm **Calvin Rohloff**, a self-taught indie developer making games and software. I've been coding since **2017** and been improving ever since, starting from small **Minecraft server plugins** to making my own **voxel RPG game**: [OpenCubes](https://github.com/ZickZenni/OpenCubes) (Currently paused)
 
 ---
 
 ## 📂 Current Projects
+
+## 📁 Paused Projects
 
 <div style="display: flex; flex-direction: row; gap: 1rem;">
     <a href="https://github.com/ZickZenni/OpenCubes">
