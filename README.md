@@ -8,7 +8,7 @@ I'm **Calvin Rohloff**, a self-taught indie developer making games and software.
 
 <div style="display: flex; flex-direction: row; gap: 1rem;">
 <a href="https://github.com/ZickZenni/OpenCubes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zickzenni&repo=discord-booru&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zickzenni&repo=OpenCubes&theme=tokyonight" />
     </a>
     <a href="https://github.com/ZickZenni/cinemamodfix">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=zickzenni&repo=cinemamodfix&theme=tokyonight" />
