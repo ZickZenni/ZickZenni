@@ -7,7 +7,10 @@ I'm **Calvin Rohloff**, a self-taught indie developer making games and software.
 ## 📂 Projects
 
 <div style="display: flex; flex-direction: row; gap: 1rem;">
-<a href="https://github.com/ZickZenni/OpenCubes">
+    <a href="https://github.com/ZickZenni/Booker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zickzenni&repo=Booker&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/ZickZenni/OpenCubes">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=zickzenni&repo=OpenCubes&theme=tokyonight" />
     </a>
     <a href="https://github.com/ZickZenni/cinemamodfix">
