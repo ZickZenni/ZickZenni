@@ -1,6 +1,6 @@
 # 🧑‍💻 ZickZenni
 
-I'm **Calvin Rohloff**, a self-taught indie developer making games and software. I've been coding since **2017** and been improving ever since.
+I'm **Calvin Rohloff**, a self-taught developer making bots, games and software. I've been coding since **2017** and improving ever since.
 
 ---
 
