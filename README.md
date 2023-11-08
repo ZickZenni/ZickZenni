@@ -10,9 +10,6 @@ I'm **Calvin Rohloff**, a self-taught developer making bots, games and software.
         <a href="https://github.com/ZickZenni/Boombox">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=zickzenni&repo=Boombox&theme=tokyonight" />
     </a>
-    <a href="https://github.com/ZickZenni/Boopbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zickzenni&repo=Boopbot&theme=tokyonight" />
-    </a>
     <a href="https://github.com/ZickZenni/OpenCubes">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=zickzenni&repo=OpenCubes&theme=tokyonight" />
     </a>
