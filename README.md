@@ -6,7 +6,7 @@
 <span align="center">
   <span>
     <h4 align="center">"<em>Don't look back. There is nowhere to go but forward.</em>"
-      <span align="center">Acheron</span>
+      <span align="center"></span>
     </h4>
   </span>
 
