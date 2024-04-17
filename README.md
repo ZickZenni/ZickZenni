@@ -26,7 +26,7 @@
 
 <h3 align="center">Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,ts,js,nodejs,unity,idea,vscode,postman,stackoverflow,git,discord" />
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,ts,js,nodejs,npm,discordjs,svelte,unity,idea,visualstudio,vscode,postman,stackoverflow,git,discord&perline=6" />
 </div>
 
 ##
