@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/arlecchino.gif" alt="Banner">
+  <img src="./assets/ezgif-4-42361a9864.gif" alt="Banner">
 </p>
 
 <h2 align="center">About Me</h2>
