@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ezgif-4-42361a9864.gif" alt="Banner">
+  <img src="./assets/tumblr_ac50afc24853087511655133186f7be7_821e57df_1280.gif" alt="Banner">
 </p>
 
 <h2 align="center">About Me</h2>
