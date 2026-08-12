@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/2560px-Akali_OriginalSkin_HD.jpg" alt="Banner">
+  <img src="./assets/ezgif-340062f06c368422.gif" alt="Banner">
 </p>
 
 <h2 align="center">About Me</h2>
